@@ -1,3 +1,5 @@
+/*Organized content to follow flow of the web page along with eliminating all duplicate classes and id's.*/
+
 * {
     box-sizing: border-box;
     padding: 0;
